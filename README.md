@@ -4,9 +4,11 @@ Computerized Monitoring System merupakan salah satu sistem yang digunakan untuk 
 Desktop-Based Monitoring System bertujuan untuk memonitoring seluruh aktivitas yang dilakukan oleh kendaraan Kitchen Truck - AD berbasis aplikasi desktop (hanya Windows). Untuk membangun sistem ini saya menggunakan software Visual Studio 2017 dan Database Management Sistem yang saya gunakan adalah Firebase. Untuk mengakses software ini diperlukan username dan password untuk login dan juga beberapa fitur "daftar" jika pengguna belum mendaftar dan ingin mengakses software tersebut. berikut UI yang ditampilkan pada software :
 
 
+
+
 ![login](https://user-images.githubusercontent.com/46160874/82861001-891a8d80-9f45-11ea-8c31-1fe526b99f5f.PNG)
 
-Gambar 1. Halaman Login
+  Gambar 1. Halaman Login
 
 
 ![daftar](https://user-images.githubusercontent.com/46160874/82861207-207fe080-9f46-11ea-9f95-6b6d27ba3295.PNG)
@@ -19,7 +21,6 @@ Gambar 3. Halaman Dashboard Utama
 
 
 ![home](https://user-images.githubusercontent.com/46160874/82861205-1fe74a00-9f46-11ea-98ea-fcb7bd716da8.PNG)
-
 Gambar 4. Halaman Home
 
 
