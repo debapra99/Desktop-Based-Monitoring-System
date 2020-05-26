@@ -8,3 +8,34 @@ Desktop-Based Monitoring System bertujuan untuk memonitoring seluruh aktivitas y
 
 Gambar 1. Halaman Login
 
+
+![daftar](https://user-images.githubusercontent.com/46160874/82861207-207fe080-9f46-11ea-9f95-6b6d27ba3295.PNG)
+
+Gambar 2. Halaman Daftar
+
+![dashboard](https://user-images.githubusercontent.com/46160874/82861206-1fe74a00-9f46-11ea-800a-c97ed26cf2af.PNG)
+
+Gambar 3. Halaman Dashboard Utama
+
+
+![home](https://user-images.githubusercontent.com/46160874/82861205-1fe74a00-9f46-11ea-98ea-fcb7bd716da8.PNG)
+
+Gambar 4. Halaman Home
+
+
+![informasi](https://user-images.githubusercontent.com/46160874/82861203-1f4eb380-9f46-11ea-94b9-3d5f23c31a95.PNG)
+
+Gambar 5. Halaman Informasi
+
+
+![monitoring 1](https://user-images.githubusercontent.com/46160874/82861200-1eb61d00-9f46-11ea-935a-c657d9dc2482.PNG)
+
+Gambar 6. Halaman Monitoring KT-AD 1
+
+
+![monitoring 2](https://user-images.githubusercontent.com/46160874/82861197-1e1d8680-9f46-11ea-9eea-a0b95bc7d7c7.PNG)
+
+Gambar 7. Halaman Monitoring KT-AD 2
+
+
+
